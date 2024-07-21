@@ -1,12 +1,12 @@
-# IT System log analyzer
+# Financial Log Analyzer
 
 ## Problem Statement
 
-1408 - IT System log analyzer
+Financial institutions face increasing fraudulent activities, resulting in significant monetary losses and eroding customer trust. Traditional detection methods are proving less effective against sophisticated fraud techniques. There's a critical need for a real-time fraud detection system that leverages machine learning to identify anomalies and fraud patterns while minimizing false positives and efficiently managing fraud cases.
 
 ## Organization
 
-Ministry of Home Affairs
+eCell DTU
 
 ## Category
 
@@ -18,7 +18,7 @@ Blockchain & Cybersecurity
 
 ## Objective
 
-This website aims to address the need for a centralized system to analyze IT system logs across different locations of the Central Reserve Police Force (CRPF). Currently, there is no central platform for experts to assess threats and security breaches systematically. The proposed solution is to develop a centralized system for analyzing the IT systems deployed at various CRPF locations across the country.
+This project aims to develop a comprehensive fraud detection system that integrates machine learning, real-time data processing, and user-friendly interfaces for effective identification and management of fraudulent activities in financial transactions.
 
 ## Team Name : AlgoAllies
 
@@ -46,14 +46,14 @@ This website aims to address the need for a centralized system to analyze IT sys
 - [Moralis IPFS](https://moralis.io/)
 - [Luxon](https://www.npmjs.com/package/luxon)
 - [Python](https://www.python.org/)
-
+- [Diamante Blockchain](https://diamanteblockchain.com/)
 ## Key Features
 
 ### Log Analysis
 
-- **Real-time Analysis:** The system provides real-time log analysis capabilities, allowing experts to monitor IT system activities as they happen.
+- **Real-time Analysis:** The system provides real-time finance log analysis capabilities, allowing experts to monitor finance system activities as they happen.
 
-- **Threat Detection:** Advanced algorithms and machine learning techniques are employed to detect potential threats, anomalies, and security breaches within the IT systems.
+- **Threat Detection:** Advanced algorithms and machine learning techniques are employed to detect potential threats, anomalies, and security breaches within the finance systems.
 
 - **Customizable Alerts:** Experts can configure customizable alerts and notifications based on specific log patterns or security events, ensuring prompt response to potential issues.
 
@@ -67,7 +67,7 @@ This website aims to address the need for a centralized system to analyze IT sys
 
 ### Log Collection and Management
 
-- **Log Data Storage:** Log data from various CRPF units and offices is collected, securely stored, and organized in a structured database for efficient retrieval.
+- **Log Data Storage:** Log data from various finance units and offices is collected, securely stored, and organized in a structured database for efficient retrieval.
 
 - **Data Ingestion:** The backend provides mechanisms for ingesting log data from diverse sources, ensuring compatibility and data integrity.
 
